@@ -2,12 +2,13 @@
 
 **Audited:** 2026-02-26
 **Bucket:** [ARCHIVE]
+**Status:** Retired
 
 ## What This Was
-Standalone app or experiment
+MyPY
 
 ## Job To Be Done
-General purpose / unclear
+MyPY
 
 ## Agent Replacement
 N/A
